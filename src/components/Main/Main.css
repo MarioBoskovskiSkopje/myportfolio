@@ -1,0 +1,25 @@
+.list-unstyled {
+  list-style-type: none;
+}
+.contact-section {
+  background-color: transparent !important;
+}
+.info ul {
+  margin-bottom: 0;
+}
+
+.left-col {
+  float: left;
+  width: 25%;
+}
+.center-col {
+  float: left;
+  width: 50%;
+}
+.right-col {
+  float: left;
+  width: 25%;
+}
+.inner {
+  background: transparent !important;
+}

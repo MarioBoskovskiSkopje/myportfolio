@@ -1,0 +1,24 @@
+.profile_img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+}
+.btn-cta-primary {
+  text-decoration: none;
+  height: 25px;
+}
+.header {
+  display: flex;
+}
+.clearfix {
+  display: flex;
+}
+.profile-content {
+  padding-left: 2%;
+}
+.social {
+  padding-bottom: 30px;
+}
+.social > a {
+  margin-left: 10px;
+}
